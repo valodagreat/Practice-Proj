@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/valodagreat/ecomfrontend",
-  "name": "amazon-clone",
+  "homepage": "http://valodagreat.github.io/ecomfrontend",
+  "name": "ecomfrontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
