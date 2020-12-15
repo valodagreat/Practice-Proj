@@ -3,17 +3,17 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://res.cloudinary.com/valodagreat/image/upload/v1598958879/favicon_nrrw3g.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://res.cloudinary.com/valodagreat/image/upload/v1598959026/Webp.net-resizeimage_zeor8f.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://res.cloudinary.com/valodagreat/image/upload/v1598959255/Webp.net-resizeimage_1_ewewvb.png",
       "type": "image/png",
       "sizes": "512x512"
     }
