@@ -1,11 +1,6 @@
 # Ecommerce Frontend
 
-This project is personal Ecommerce site where users can sign up to buy products directly from the organization. It gives users a very cool user experience. The app was built with ReactJS, Redux and React-Router majorly. Redux was used for state management due to the state complexities, and also to provide the state of the app globally.
-
-## Running App
-The live version of the app can be found [here](https://tender-lalande-27459e.netlify.app/)
-
-![Web APP](https://res.cloudinary.com/valodagreat/image/upload/v1656757849/shop_ojga7c.png)
+This project is small clone of Amazon e-commerce site. It gives users a very cool user experience. The app was built with ReactJS, Redux, React-Router and firebase. Redux was used for state management due to the state complexities, and also to provide the state of the app globally.
 
 ## Usage
 
