@@ -1,4 +1,4 @@
-# Ecommerce Frontend
+# Amazon E-commerce Clone
 
 This project is small clone of Amazon e-commerce site. It gives users a very cool user experience. The app was built with ReactJS, Redux, React-Router and firebase. Redux was used for state management due to the state complexities, and also to provide the state of the app globally.
 
