@@ -6,12 +6,12 @@ This project is small clone of Amazon e-commerce site. It gives users a very coo
 
 * Clone the repo
 ```bash
-git clone https://github.com/valodagreat/ecomfrontend.git
+git clone https://github.com/valodagreat/Practice-Proj.git
 ```
 
-* Change Directory to the ecommercebackend
+* Change Directory to the Practice-Proj
 ```bash
-cd ecomfrontend
+cd Practice-Proj
 ```
 
 * Install Dependencies
