@@ -5,6 +5,8 @@ This project is personal Ecommerce site where users can sign up to buy products 
 ## Running App
 The live version of the app can be found [here](https://tender-lalande-27459e.netlify.app/)
 
+![Web APP](https://res.cloudinary.com/valodagreat/image/upload/v1656757849/shop_ojga7c.png)
+
 ## Usage
 
 * Clone the repo
@@ -44,3 +46,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
